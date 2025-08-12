@@ -1,4 +1,5 @@
 -- 1. Generar reporte mensual de ventas
+
 CREATE EVENT reporte_mensual_ventas
 ON SCHEDULE EVERY 1 MINUTE STARTS NOW()
 DO

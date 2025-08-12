@@ -1,7 +1,5 @@
 -- ************************FUNCIONES********************
 
--- FUNCIONES CORREGIDAS PARA GESTIÓN DE FINCA
-
 delimiter //
 
 -- 1️⃣ rendimiento promedio por hectárea de un cultivo

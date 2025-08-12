@@ -1,4 +1,5 @@
 -- 1. Insertar categoría de producto
+
 DELIMITER $$
 CREATE PROCEDURE sp_insert_categoria_producto(
     IN p_nombre_categoria VARCHAR(50)

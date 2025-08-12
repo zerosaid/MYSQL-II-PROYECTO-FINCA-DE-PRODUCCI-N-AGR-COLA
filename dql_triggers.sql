@@ -1,4 +1,5 @@
 -- ****************************Triggers**************************
+
 -- 1. Al insertar un detalle de venta, reducir stock en inventario
 DELIMITER //
 CREATE TRIGGER trg_actualizar_stock_venta

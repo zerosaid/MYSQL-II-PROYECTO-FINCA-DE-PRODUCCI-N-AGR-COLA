@@ -1,4 +1,5 @@
 -- 1. Listar todos los productos con su categoría
+
 SELECT p.id_producto, p.nombre_producto, c.nombre_categoria
 FROM productos p
 LEFT JOIN categorias_productos c ON p.id_categoria = c.id_categoria;

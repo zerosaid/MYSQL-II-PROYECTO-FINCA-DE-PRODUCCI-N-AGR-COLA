@@ -1,6 +1,7 @@
 Create database if not exists `Finca_Oasis`;
 USE `Finca_Oasis`;
 
+
 -- ÁREA DE PRODUCTOS Y PRODUCCIÓN
 CREATE TABLE categorias_productos (
     id_categoria INT PRIMARY KEY AUTO_INCREMENT,

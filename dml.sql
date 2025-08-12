@@ -1,4 +1,5 @@
 -- Incerciones
+
 INSERT INTO empleados (nombre, cedula, fecha_ingreso, id_rol) VALUES
 ('Pedro Gómez', '123456789', '2020-01-01', 1),
 ('Laura Mora', '234567890', '2019-03-15', 2),
